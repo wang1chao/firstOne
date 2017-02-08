@@ -1,1 +1,2 @@
-test  rm 
+test  rm
+i have remote to origin
